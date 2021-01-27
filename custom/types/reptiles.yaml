@@ -1,0 +1,12 @@
+synonym:
+  entities:
+    crocodile:
+      synonyms:
+      - crocodile
+    lizard:
+      synonyms:
+      - lizard
+    snake:
+      synonyms:
+      - snake
+  matchType: FUZZY_MATCH

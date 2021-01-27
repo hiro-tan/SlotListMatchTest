@@ -1,0 +1,15 @@
+synonym:
+  entities:
+    cat:
+      synonyms:
+      - cat
+    dog:
+      synonyms:
+      - dog
+    hamster:
+      synonyms:
+      - hamster
+    seal:
+      synonyms:
+      - seal
+  matchType: FUZZY_MATCH

@@ -1,0 +1,6 @@
+defaultLocale: en
+localizedSettings:
+  displayName: Animal Fortune
+  pronunciation: Animal Fortune
+  voice: female_1
+projectId: slotlistmatchtest
